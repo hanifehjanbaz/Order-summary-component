@@ -1,0 +1,43 @@
+@media screen and (max-width: 480px) {
+    .section-content {
+        margin: 2rem 1.5rem;
+    }
+
+    .order-heading {
+        font-size: 1.4rem;
+    }
+
+    .order-text,
+    .btn {
+        font-size: 0.9rem;
+    }
+
+    .content {
+        padding: 1.2rem 1rem;
+        gap: 0.8rem;
+    }
+
+    .music-icon {
+        width: 2.8rem;
+        height: 2.8rem;
+    }
+
+    .second-heading,
+    .price-in-year {
+        font-size: 0.8rem;
+    }
+
+    .change-link:link,
+    .change-link:visited {
+        font-size: 0.7rem;
+    }
+
+    .btn-proceed {
+        margin: 1.5rem 0 1rem 0;
+    }
+
+    .btn {
+        padding: 1rem 0;
+        font-weight: 700;
+    }
+}
