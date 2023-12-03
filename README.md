@@ -2,7 +2,7 @@
 
 ### Links
 
-- Live Site URL: [live site URL here](https://hani-order-summary.netlify.app/)
+- Live Site URL: [live site URL here](https://hanifehjanbaz.github.io/Order-summary-component/)
 
 ### Screenshots
 
